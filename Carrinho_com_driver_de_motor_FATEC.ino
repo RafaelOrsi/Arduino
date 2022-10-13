@@ -71,6 +71,4 @@ motorte.run(RELEASE); //Desliga o motor
 motortd.setSpeed(0);
 motortd.run(RELEASE); //Desliga o motor
   }
-  
-
 }
